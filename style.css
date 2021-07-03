@@ -1,0 +1,59 @@
+body{
+  background-image: linear-gradient(black, white);
+    text-align: center;
+    font-size: 30px; 
+}
+
+#main{
+   color:azure;
+    text-align: center;
+    font-family: cursive
+    
+}
+
+
+.link {
+    float: left;
+    font-size: 20px;
+    color: floralwhite;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-top: 5px;
+    
+}
+#i{
+  color:black;
+    
+    
+}
+img{
+ width:1000px;
+     height:700px;
+    
+}
+#owngame:hover {
+    transform: scale(.8)
+}
+
+#ticktacktoe:hover {
+    transform: scale(.8)
+}
+#owngame{
+    
+    width: 500px;
+    height: 500px;
+}
+#ticktacktoe{
+    
+    width: 500px;
+    height: 500px;
+}
+#io{
+ width: 750px;   
+    
+}
+#io:hover{
+ transform: scale(.8)   
+    
+}
